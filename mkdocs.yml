@@ -1,5 +1,5 @@
-site_name: Tech Blog Special
-site_description: A Simple Tech Blog
+site_name: Data Preparation Tutorial
+site_description: Tutorial for CODS_COMMAD-2024
 
 nav: 
   - Home: index.md
