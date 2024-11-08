@@ -1,3 +1,3 @@
-## Data preparation for fine tuning Large Language Models
+## Tutorials
 
-Parameswaran Selvam (IBM Research), Hima Patel (IBM Research), Saptha Surendran (IBM Research) and Shivdeep Singh (IBM Research)
+- [Upcoming tutorial for CODS C0MAD 2024](https://shivdeep-singh-ibm.github.io/data-prep-tutorial/cods-comad-2024)
