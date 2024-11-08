@@ -3,11 +3,9 @@ site_description: A Simple Tech Blog
 
 nav: 
   - Home: index.md
-  - Blog:
+  - Resources:
     - blog/index.md
-    - 2022:
-      - blog/posts/welcome.md
-  - About: about.md
+  - Contributers: about.md
 
 theme:
   name: 'material'
